@@ -4,10 +4,11 @@
   
   ```All of my projects are available at https://github.com/mohdabdulqhavi```
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-abdul-qhavi) 
+* Socials:
 
-# Tech Stack:
+[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-abdul-qhavi) 
+
+* Tech Stack:
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
   
