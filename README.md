@@ -5,9 +5,9 @@
   ```All of my projects are available at https://github.com/mohdabdulqhavi```
 
 * Socials:
-  ```
+  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohdabdulqhavi) 
-  ```
+  
 
 * Tech Stack:
 
