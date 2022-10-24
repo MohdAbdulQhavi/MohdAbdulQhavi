@@ -2,7 +2,6 @@
 
   ```Passionate about Data Science```
   
-  ```All of my projects are available at https://github.com/mohdabdulqhavi```
 
 * Socials:
   
